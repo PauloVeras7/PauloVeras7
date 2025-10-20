@@ -1,37 +1,34 @@
-# Olá, eu sou o Paulo Henrique Veras Alves
+# Olá, sou o Paulo! 👋
 
-Atualmente sou estudante de **Desenvolvimento Front-End na Unisuam, no segundo semestre** e estou em **transição de carreira**.  
-Trabalhei por alguns anos com vendas e atendimento ao público, mas sempre tive facilidade com tecnologia e informática.  
-Com o tempo, percebi que era isso que eu realmente curtia e decidi seguir por esse caminho.  
-Hoje, busco minha **primeira oportunidade na área de Front-End**, pra colocar em prática o que venho aprendendo e continuar evoluindo.
+Meu nome é **Paulo Henrique Veras Alves**  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, no segundo semestre da UNISUAM  
+Estou em **transição de carreira**  e buscando minha **primeira oportunidade na área** para aplicar meus aprendizados e evoluir
 
----
-
-### O que estou aprendendo
-- HTML5 e CSS3  
-- JavaScript  
-- Bootstrap  
-- Git e GitHub
 
 ---
 
-### Ferramentas que utilizo
-- VS Code  
-- Figma  
-- Git  
-- Trello  
+## Sobre mim
+
+📚 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, Bootstrap, Git e GitHub**  
+🎯 Objetivos: **Conquistar minha primeira vaga em Front-End e evoluir meus projetos, aprendendo cada vez mais**  
+💡 Curiosidade: Minha experiência com vendas me ajudou a desenvolver **comunicação, paciência e jogo de cintura**, habilidades que uso na área de tecnologia  
+🖌️ Gosto de criar projetos que façam sentido, testar ideias e aprender na prática
 
 ---
 
-### Onde me encontrar
-[LinkedIn](https://www.linkedin.com/in/paulo-henrique-veras-alves-25070b164)  
-[GitHub](https://github.com/pauloveras7)
+## Ferramentas que uso
 
----
-
-### Um pouco sobre mim
-Desde sempre sou bastante curioso e entender como funcionam as coisas por trás das telas.
-Minha experiência com vendas me ajudou a desenvolver boa comunicação, paciência e jogo de cintura pra resolver problemas. Uma bagagem profissional, que bem adaptada, me ajuda bastante na area da tecnologia.   
-Gosto de aprender, testar ideias e criar projetos que façam sentido de verdade.
-
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="htt
