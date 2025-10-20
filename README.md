@@ -1,6 +1,6 @@
 # Olá, eu sou o Paulo Henrique Veras Alves
 
-Atualmente sou estudante de **Desenvolvimento Front-End na Unisuam, atualmente no segundo semestre** e estou em **transição de carreira**.  
+Atualmente sou estudante de **Desenvolvimento Front-End na Unisuam, no segundo semestre** e estou em **transição de carreira**.  
 Trabalhei por alguns anos com vendas e atendimento ao público, mas sempre tive facilidade com tecnologia e informática.  
 Com o tempo, percebi que era isso que eu realmente curtia e decidi seguir por esse caminho.  
 Hoje, busco minha **primeira oportunidade na área de Front-End**, pra colocar em prática o que venho aprendendo e continuar evoluindo.
