@@ -10,7 +10,7 @@ Estou em **transição de carreira**  e buscando minha **primeira oportunidade n
 ## Sobre mim
 
 📚 Atualmente estou aprendendo **HTML5, CSS3, JavaScript, Bootstrap, Git e GitHub**  
-🎯 Objetivos: **Conquistar minha primeira vaga em Front-End e evoluir meus projetos, aprendendo cada vez mais**  
+🎯 Objetivos: **Conquistar minha primeira vaga na área e evoluir meus projetos, aprendendo cada vez mais**  
 💡 Curiosidade: Minha experiência com vendas me ajudou a desenvolver **comunicação, paciência e jogo de cintura**, habilidades que uso na área de tecnologia  
 🖌️ Gosto de criar projetos que façam sentido, testar ideias e aprender na prática
 
