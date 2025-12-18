@@ -4,7 +4,6 @@ Meu nome é **Paulo Henrique Veras Alves**
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, no segundo semestre da UNISUAM  
 Estou em **transição de carreira**  e buscando minha **primeira oportunidade na área** para aplicar meus aprendizados e evoluir
 
-
 ---
 
 ## Sobre mim
